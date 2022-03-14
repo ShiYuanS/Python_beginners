@@ -1,2 +1,2 @@
 # Python_beginners
-python编程从入门到时间
+学习python编程从入门到实践
